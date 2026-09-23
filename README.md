@@ -16,7 +16,7 @@ Requiere **Java 9 o superior** (usa la API `ProcessHandle`). NetBeans moderno ya
 | `ServicioProcesos.java` | `administradorprocesos.servicio` | Lógica para listar/finalizar/iniciar procesos | Hugo |
 | `VentanaPrincipal.java` | `administradorprocesos` | Interfaz gráfica (Swing) y eventos de botones | Jeshua |
 | `Main.java` | `administradorprocesos` | Punto de entrada | Hugo |
-| `MANUAL_USUARIO.md` | — | Manual de usuario | Integrante encargado de documentación |
+| `MANUAL_USUARIO.md` | — | Manual de usuario | Hugo |
 
 ## Cómo se comprueba el trabajo de cada quien
 Cada integrante trabaja en su propia rama de Git (`git checkout -b nombre-parte`) y comitea
