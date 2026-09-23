@@ -1,4 +1,4 @@
-# Administrador de Procesos (Java)
+
 
 Aplicación de escritorio en Java (Swing) que permite:
 - Ver los procesos reales que están corriendo en el sistema (PID, nombre, usuario, hora de inicio, si está activo).
@@ -9,7 +9,7 @@ Aplicación de escritorio en Java (Swing) que permite:
 
 Requiere **Java 9 o superior** (usa la API `ProcessHandle`). NetBeans moderno ya trae un JDK compatible.
 
-## Paquetes y clases (divididos por parte)
+
 | Clase | Paquete | Contenido | Responsable sugerido |
 |---|---|---|---|
 | `ProcesoInfo.java` | `administradorprocesos.modelo` | Modelo de datos de un proceso | Jeshua |
@@ -18,7 +18,7 @@ Requiere **Java 9 o superior** (usa la API `ProcessHandle`). NetBeans moderno ya
 | `Main.java` | `administradorprocesos` | Punto de entrada | Hugo |
 | `MANUAL_USUARIO.md` | — | Manual de usuario | Hugo |
 
-## Cómo se comprueba el trabajo de cada quien
+
 Cada integrante trabaja en su propia rama de Git (`git checkout -b nombre-parte`) y comitea
 con su propio `git config user.name` / `user.email` (debe coincidir con el correo de su
 cuenta de GitHub para que el commit se le atribuya). Al final se integra todo a `main`
