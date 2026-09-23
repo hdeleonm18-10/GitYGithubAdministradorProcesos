@@ -12,10 +12,10 @@ Requiere **Java 9 o superior** (usa la API `ProcessHandle`). NetBeans moderno ya
 ## Paquetes y clases (divididos por parte)
 | Clase | Paquete | Contenido | Responsable sugerido |
 |---|---|---|---|
-| `ProcesoInfo.java` | `administradorprocesos.modelo` | Modelo de datos de un proceso | Integrante 1 |
-| `ServicioProcesos.java` | `administradorprocesos.servicio` | Lógica para listar/finalizar/iniciar procesos | Integrante 2 |
-| `VentanaPrincipal.java` | `administradorprocesos` | Interfaz gráfica (Swing) y eventos de botones | Integrante 3 |
-| `Main.java` | `administradorprocesos` | Punto de entrada | Integrante 4 (o quien arme el repo) |
+| `ProcesoInfo.java` | `administradorprocesos.modelo` | Modelo de datos de un proceso | Jeshua |
+| `ServicioProcesos.java` | `administradorprocesos.servicio` | Lógica para listar/finalizar/iniciar procesos | Hugo |
+| `VentanaPrincipal.java` | `administradorprocesos` | Interfaz gráfica (Swing) y eventos de botones | Jeshua |
+| `Main.java` | `administradorprocesos` | Punto de entrada | Hugo |
 | `MANUAL_USUARIO.md` | — | Manual de usuario | Integrante encargado de documentación |
 
 ## Cómo se comprueba el trabajo de cada quien
