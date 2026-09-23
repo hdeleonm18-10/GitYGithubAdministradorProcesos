@@ -6,8 +6,9 @@ Aplicación de escritorio en Java (Swing) que permite:
 - **Finalizar de verdad** un proceso seleccionado (usa `ProcessHandle.destroy()`).
 - Iniciar un nuevo proceso escribiendo su nombre o ruta (ej. `notepad.exe`).
 - Actualización automática cada 5 segundos.
+- 
+# Paquetes y clases (divididos por parte)
 
-Requiere **Java 9 o superior** (usa la API `ProcessHandle`). NetBeans moderno ya trae un JDK compatible.
 
 
 | Clase | Paquete | Contenido | Responsable sugerido |
