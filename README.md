@@ -19,8 +19,4 @@ Requiere **Java 9 o superior** (usa la API `ProcessHandle`). NetBeans moderno ya
 | `MANUAL_USUARIO.md` | — | Manual de usuario | Hugo |
 
 
-Cada integrante trabaja en su propia rama de Git (`git checkout -b nombre-parte`) y comitea
-con su propio `git config user.name` / `user.email` (debe coincidir con el correo de su
-cuenta de GitHub para que el commit se le atribuya). Al final se integra todo a `main`
-mediante Pull Requests. Esto hace que en GitHub, en la pestaña **Insights → Contributors**
-del repositorio, se vea automáticamente cuánto aportó cada persona.
+
