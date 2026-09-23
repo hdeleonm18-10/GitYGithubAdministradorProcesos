@@ -1,5 +1,5 @@
 
-
+# Administrador de Procesos (Java)
 Aplicación de escritorio en Java (Swing) que permite:
 - Ver los procesos reales que están corriendo en el sistema (PID, nombre, usuario, hora de inicio, si está activo).
 - Buscar/filtrar procesos por nombre.
